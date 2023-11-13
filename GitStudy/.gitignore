@@ -1,0 +1,5 @@
+/* 이클립스가 관리하는 파일들.. */
+/bin/
+.classpath
+.project
+/.settings/
